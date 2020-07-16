@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"logs"
+	"log"
 )
 
 const webContent = "dev-ops-ninja:v99"
